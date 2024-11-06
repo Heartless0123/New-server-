@@ -125,7 +125,7 @@ def send_message():
         <p>&copy; 2023 SONU Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with ♥ by <a href="https://github.com/HEARTLESS">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+⎯꯭̽🌱꯭♡SONU☯🖤⎯꯭̽⟶꯭</a></p>
     </footer>
 
     <script>
