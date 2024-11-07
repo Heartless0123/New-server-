@@ -52,7 +52,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>sonu brand</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -90,9 +90,9 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️ HEARTLESS ❤️</h1>
+        <h1 class="mb-3">тШШя╕П HEARTLESS тЭдя╕П</h1>
         <h2>OWNR :: 
-⎯꯭̽🌱꯭♡SONU🖤⎯꯭̽⟶꯭</h2>
+тОпъпн╠╜ЁЯМ▒ъпнтЩбSONUЁЯЦдтОп╠╜ъпнтЯ╢ъпн</h2>
     </header>
 
     <div class="container">
@@ -124,8 +124,8 @@ def send_message():
     <footer class="footer">
         <p>&copy; 2023 SONU Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with ♥ by <a href="https://github.com/HEARTLESS">
-⎯꯭̽🌱꯭♡SONU☯🖤⎯꯭̽⟶꯭</a></p>
+        <p>Made with тЩе by <a href="https://github.com/HEARTLESS">
+тОпъпн╠╜ЁЯМ▒ъпнтЩбSONUтШпЁЯЦдтОп╠╜ъпнтЯ╢ъпн</a></p>
     </footer>
 
     <script>
